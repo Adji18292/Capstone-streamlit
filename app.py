@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 # API URL Backend FastAPI
-API_URL = "https://capstone-backend.onrender.com"
+API_URL = "https://adji1112-omnisight-backend.hf.space"
 
 # ================= SIDEBAR NAVIGATION =================
 st.sidebar.title("📊 OmniSight BI")
