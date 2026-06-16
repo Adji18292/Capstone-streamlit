@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 # API URL Backend FastAPI
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://capstone-backend.onrender.com"
 
 # ================= SIDEBAR NAVIGATION =================
 st.sidebar.title("📊 OmniSight BI")
