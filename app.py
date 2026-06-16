@@ -16,7 +16,7 @@ API_URL = "https://adji1112-omnisight-backend.hf.space"
 
 # ================= SIDEBAR NAVIGATION =================
 st.sidebar.title("📊 OmniSight BI")
-st.sidebar.markdown("*(Business Intelligence & AI)*")
+st.sidebar.markdown("*Business Intelligence & AI*")
 st.sidebar.divider()
 
 menu = st.sidebar.radio(
